@@ -11,6 +11,7 @@
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
   <img src="https://img.icons8.com/color/2x/javascript.png" width="120" alt="JavaScript">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" width="100" alt="csharp">
 </table>
     <div>
     <h3> <img src="https://img.icons8.com/?size=100&id=53372&format=png&color=7950F2" width="25" alt="Rede Social"> Social</h3>
